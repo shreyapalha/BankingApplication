@@ -1,0 +1,79 @@
+@charset "ISO-8859-1";
+
+.container
+{
+	margin-left:40%;
+	margin-top:15%;
+	margin-bottom: 30px;
+	justify-content: space-between;
+}
+
+
+.heading{
+	margin-bottom: 6%;
+	margin-left:10px;
+}
+
+.heading h2
+{
+	font-size: 30px;
+	font-family: Georgia, serif;
+}
+
+.table{
+	
+	margin-left: 20px
+}
+
+.table input
+{
+	border-radius: 17px;
+	margin-left: 5px;
+	padding:5px;
+	padding-left:12px;
+	font-family: Georgia, serif;
+	font-size: 17px;
+}
+
+.table input[type=submit]
+{
+	margin-top: 17px;
+	padding:8px;
+	background: black;
+	color: white;
+}
+
+
+.table table,
+      tr td:first-child
+       {
+       margin-right:4px;
+        font-weight: bold;
+        font-family: Georgia, serif;
+      }
+
+.table button
+{
+	margin-top: 35px;
+	padding:8px;
+	background: black;
+	color: white;
+	border-radius: 17px;
+	margin-left: 70%;
+	 font-family: Georgia, serif;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
