@@ -1,1 +1,1 @@
-erftghjdkfcj hgfds
+There are two roles in bank: Manager and Customer. They can login using their credential. Customer can enquire about balance of his account, statement. Manager can perform various functions such as Add New Customer, Balance enquiry, Edit Customer, Fund Transfer Delete Customer, Mini Statement, New Account, Customized Statement, Edit Account, Change Password, Delete Account, Login Logout, Deposit, Withdrawal.
